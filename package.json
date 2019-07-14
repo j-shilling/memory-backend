@@ -1,0 +1,22 @@
+{
+  "name": "memory-backend",
+  "version": "1.0.0",
+  "description": "GraphQL API serving documents to be memorized",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-shilling/memory-backend.git"
+  },
+  "author": "Jake Shilling and Trevor Jameson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-shilling/memory-backend/issues"
+  },
+  "homepage": "https://github.com/j-shilling/memory-backend#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.0"
+  }
+}
